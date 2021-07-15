@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Hammersmith+One&family=Manjari:wght@400;700&display=swap');
+
+body {
+   font-family: 'Manjari', Arial, Helvetica, sans-serif;
+   margin: 30px 0 0;
+}
+
+h1,
+h5.card-header {
+   font-family: 'Hammersmith One', Arial, Helvetica, sans-serif;
+}
+
+h5.card-title{
+   font-weight: bold;
+}
